@@ -1,0 +1,42 @@
+{
+    "N,4|J:+dlaY7(B{UK!bT": {
+        "data": "hwQMABAAAAAA8P//D+BEAAD//0T+T00A8P//TuT//wDw/kT0RL5h/+9ORPREFGH/7+5ERLQUYQ/v7k5EtBRhD+/u7vREFGH/8P7v9ES+Yf/w//9O5P//AAD//0T+T00AAPD//w/gRAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemyone"
+    },
+    "Rey}0q5`wNF1ydz!BPVA": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQDwAAAAAAANAPAAAAAAAA0A8AAAAAAADQDwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bullet"
+    },
+    "!6EjDchA=cSlJ@a": {
+        "data": "hwQQABAAAACZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmRGZmRmRmZmZEZmZGZEZEZkRERERkRkRmRERERGRGRGZEREREZEZEZkRERERkZmZmRGZmRmRmZmZEZmZGZGZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "infologo"
+    },
+    "]1s!Q=%tJ1OQzn34;cTP": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA8QAAAAAAAAARDwAA/wAAAN8PAPDyAAAAjw8A//Lw/w+PD/Du8p/R8o///+7yn9n9iIjo/v/f3f2IiOj+AN/d/f///+4P3939AADw7g/w/w8AAPDuDwAAAAAA8CLyAAAAAADw//8AAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "leftstand"
+    },
+    "mt=": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAA8P//AAAAAADwIvLw/w8AAPDuD9/d/QAA8O4P3939////7g/f3f2IiOj+AJ/Z/YiI6P7/n9Hyj///7vLw/w+PD/Du8gAAAI8PAP/yAAAA3w8A8PIAAAARDwAA/wAAAPEAAAAAAAAAAQAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "rightstand"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPD/AAD/AAAA8P0A8PLw///w+ADw8v/d/f/4APDy35nd//j/7/LfGd2PiIju/9/dLY+IiP4A390tj4iI/gDfkd2PiIju/9+Z3f/4/+/y/939//gA8PLw///w+ADw8gAAAPD9APDyAAAA8P8AAP8AAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myspritestanding"
+    },
+    "@9+$!B#evb{fn$FnRWZg": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPD/AAD/AAAA8P0A8PIAAAD//w/w8gAA8N/d//DyAADwndn97/IAAPCd0f3u/wAA8N3d8v4AAADw3d3y/gAAAPAd2f3u/wAA8J3Z/e/yAADw393/8PIAAAD//w/w8gAAAPD9APDyAAAA8P8AAP8AAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "crouching"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}

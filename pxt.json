@@ -1,0 +1,60 @@
+{
+    "name": "wealthWorld extenstion",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "controller": "*",
+        "Sprite Grid": "github:microsoft/arcade-grid#v1.3.0",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
+        "darts": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.0.1",
+        "arcade-screen-transitions": "github:riknoll/arcade-screen-transitions#v0.1.0",
+        "radio-broadcast": "*",
+        "animation": "*",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "arcade-premium-life": "github:jwunderl/arcade-premium-life#v0.2.1",
+        "character-animations": "github:riknoll/character-animations#v0.3.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#78DC52",
+        "#FF8135",
+        "#FFF609",
+        "#249CA3",
+        "#FF93C4",
+        "#003FAD",
+        "#87F2FF",
+        "#8E2EC4",
+        "#A4839F",
+        "#5C406c",
+        "#E5CDC4",
+        "#91463d",
+        "#000000"
+    ]
+}
